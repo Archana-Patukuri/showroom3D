@@ -1,0 +1,15 @@
+{
+	"lights":[		
+		"fanLight"
+	],
+	"receivers": [			
+		"Floor",
+		"Table_Top_Mesh"
+	],
+	"casters": [																						
+		"TableStand001",						
+		"TableStand001_1",		
+		"Pot",
+		"TableLegs"		
+	]
+}

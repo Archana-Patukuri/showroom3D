@@ -1,0 +1,19 @@
+{
+	"lights":[		
+		"fanLight",
+		"Desktop_Lamp_Light002"
+	],
+	"receivers": [		
+		"Floor",
+		"Cube001"		
+	],
+	"casters": [			
+		"Cube001",														
+		"Laptop_Selectable",					
+		"Pot",
+		"TableLegs",		
+		"Node_SeatSupport001",
+		"Mesh_SeatSupport002_1",
+		"Mesh_Adjustment_Knob_3"		
+	]
+}

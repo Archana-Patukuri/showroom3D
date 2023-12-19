@@ -1,0 +1,21 @@
+{
+	"lights": [				
+		"Sun"		
+	],
+	"receivers": [		
+		"Back_Wall",
+		"Left_Wall",
+		"Front_Wall",
+		"Right_Wall",
+		"Floor",		
+		"Skrit"
+	],
+	"casters": [							
+        "Mesh_Walls001",
+        "Mesh_Walls001_1",
+        "Mesh_Walls001_2",
+        "Front_Wall",
+		"Left_Wall",
+        "Floor"		      	
+	]
+}

@@ -1,0 +1,191 @@
+{
+  "Room": [
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Room_Variants_latest1.glb",
+      "Name": "Room"
+    }    
+  ],
+  "Plants": [
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/floor/indoor_plant_v01_opt.glb",
+      "Name": "Plant 01"
+    }
+  ],
+  "Accessories": [
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Frames_Without_Glass_latest.glb",
+      "Name": "Frame"
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Wall_Plants.glb",
+      "Name": "Frame"
+    },
+    { 
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Vase.glb",
+      "Name": "Frame"
+    },
+    { 
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/fan.glb",
+      "Name": "Fan"
+    }
+    
+  ],
+  "Blinds": [
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Blinds_03_v01_draco.glb",
+      "Name": "Horizontal",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/blinds/Blinds_03_v01.webp",
+      "spin_value":"Horizontal_Blind",
+      "spin_description":"Light Filtering Blinds for Windows, Horizontal Window Blinds, Shades for Indoor Windows with different material variants i.e Wooden,Grey and Translucent, 58”D x 6” W x 71” H"
+  
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Blinds_01_v01_draco.glb",
+      "Name": "Vertical",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/blinds/Blinds_01_v01.webp",
+      "spin_value":"Vertical_Blind",
+      "spin_description":"Vertical Window Shades"
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Blinds_02_v01_draco.glb",
+      "Name": "RollUp",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/blinds/Blinds_02_v01.webp",
+      "spin_value":"Rollup_Blind",
+      "spin_description":"RollUp Window Shades"
+    }
+  ],
+      
+  "Tables": [
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Table_Automatic_01_v01.glb",
+      "Name": "Motarized",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/tables/Table_Automatic_01_v01.webp",
+      "spin_value":"Table1",
+      "spin_description":"Manual Height Adjustable Home Office Computer Desk, Large Curved Edge Standing PC Gaming Table Workstation With Different Material Variants Black Leather,Brown Leather and Red Leather, 90D x 30W x 36H",
+      "light_Name":"Table Lamp"
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Table_Manual_01.glb",
+      "Name": "Manual",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/tables/Table_Manual_01_v01.webp",
+      "spin_value":"Table2",
+      "spin_description":"Motorized Height Adjustable Home Office Computer Desk, Large Curved Edge Standing PC Gaming Table Workstation with different material variants like Pine Wood,Red Pearwood and Walnut Wood, 78D x 39W x 34H",
+      "light_Name":"Table Lamp"
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Table_Small_01_v01_Draco.glb",
+      "Name": "Small",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/tables/Table_Small_01_v01.webp",
+      "spin_value":"Table3",
+      "spin_description":"Small Height Adjustable Home Office Computer Desk, Large Curved Edge Standing PC Gaming Table Workstation with different marble variants like Explosionblue,Greyvision and Starblack, 43D x 23W x 34H",
+      "light_Name":"Table Lamp"      
+    }
+  ],   
+  "Chairs": [
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Chair_01_v01.glb",
+      "Name": "Bucket Seat",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair_01_v01.webp",
+      "spin_value":"Chair1",
+      "spin_description":"Basics Upholstered Home Office 360 Degree Bucket Seat Chair with Adjustable-Height,rotate and back rest, containing three different variants of ConiferWood OrangeLeather,MahoganyWood BrownLeather and BlackLeather, 30D x 30W x 44H"
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Chair_02_v01.glb",
+      "Name": "Basic",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair_02_v01.webp",
+      "spin_value":"Chair2",
+      "spin_description":"Basics Home Office 360 Degree Seat Chair with Adjustable-Height,rotate and handle, containing three different variants of Black,Blue and Copper, 42D x 42W x 54H"
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Chair_03_v01.glb",
+      "Name": "Advanced",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair_03_v01.webp",
+      "spin_value":"Chair3",
+      "spin_description":"Home Office 360 Degree Seat Chair with Adjustable-Height,rotate and back rest, containing three different variants of Fabric,Leather and Pattern, 50D x 27W x 2H"
+    }
+  ],
+  "Mirror": [
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/mirror_draco.glb",
+      "Name": "Mirror_Selectable",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair03.webp"
+    }
+  ],
+  "Vase": [
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Flower_Pot.glb",
+      "Name": "Vase_Selectable",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair03.webp"
+    }
+  ],
+  "Laptop": [
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Laptop_Draco.glb",
+      "Name": "Laptop_Selectable",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair03.webp"
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Ergonomicstand_With_Monitor.glb",
+      "Name": "Laptop_Selectable",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair03.webp"
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Keyboard.glb",
+      "Name": "Laptop_Selectable",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair03.webp"
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Mouse.glb",
+      "Name": "Laptop_Selectable",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair03.webp"
+    }
+  ],
+  "Lights": [  
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Desk_Lamp.glb",
+      "Name": "Desktop",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/lights/Table_Lamp_01_v01.webp",
+      "spin_value":"Desktop_Lamp",
+      "spin_description":"Desktop light",
+      "light_Name":"Table Lamp"
+    },     
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Floor_Lamp_small_draco.glb",
+      "Name": "Floor1",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/lights/Floor_Lamp_small.webp",
+      "spin_value":"Floor_Lamp",
+      "spin_description":"Floor light",
+      "light_Name":"Floor Lamp"
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Left_Wall_Lamp1.glb",
+      "Name": "Wall",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/lights/WallLamp.webp",
+      "spin_value":"Wall_Lamp",
+      "spin_description":"Wall light",
+      "light_Name":"Wall Lamp"
+    },
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/cylindrical_wall_lamp_draco.glb",
+      "Name": "Cylindrical",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/lights/Table_Lamp_01_v01.webp",
+      "light_Name":"Wall Washer Light"
+    }],
+    "Lights_2": [
+      {
+        "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/cylindrical_wall_lamp_draco.glb",
+        "Name": "Cylindrical",
+        "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/lights/Table_Lamp_01_v01.webp",
+        "light_Name":"Wall Washer Light"
+      }
+  ],
+  "LoungChair": [
+    {
+      "URL": "https://d3t7cnf9sa42u5.cloudfront.net/Updated_Models/Models_Updated_Names/Loung_Chair_New.glb",
+      "Name": "LoungChair",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair03.webp",
+      "spin_value":"Lounge_Chair",
+      "spin_description":"Lounge Chair"
+    }
+  ]
+}
