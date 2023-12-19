@@ -195,8 +195,8 @@ let fanLight;
 let flag = 0;
 let emissive_Obj, Motor_emissive;
 let pauseRender;
-import useSpinner from '../use-spinner';
-import '../use-spinner/assets/use-spinner.css';
+/* import useSpinner from '../use-spinner';
+import '../use-spinner/assets/use-spinner.css'; */
 let container_3d = document.getElementById('3dcontainer');
 let loungeChairUIContainer, loungeChairModels;
 let background_1, hdri_0, hdri_1, background_0;

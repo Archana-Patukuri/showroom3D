@@ -8,7 +8,7 @@ echo "\n*\n*\n*\n installing dependencies and building \n*\n*\n*\n"
 npm i
 npm run build
 
-sudo cp -d -r dist/* /var/www/html/Showroom3D_Desktop/
+sudo cp -d -r dist/* /var/www/html/showroom3D/
 sudo cp -d -r dist/assets/* /var/www/html/assets/
 
 sudo mkdir -p ~/desktop_demo_versions/version_$1
