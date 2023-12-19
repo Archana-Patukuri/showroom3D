@@ -41,7 +41,7 @@ dist
 # Dependency directories
 node_modules/
 jspm_packages/
-ShowRoom3D_Desktop
+
 # TypeScript v1 declaration files
 typings/
 
