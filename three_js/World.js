@@ -557,8 +557,8 @@ class World {
       name:"Room_101",
       position:{
         x:loadedmodel.position.x,
-        y:loadedmodel.position.y,
-        z:loadedmodel.position.z
+        y:loadedmodel.position.z,
+        z:loadedmodel.position.y
       },
       rotation:{
         x:loadedmodel.rotation.x,
@@ -599,8 +599,8 @@ class World {
                   }
                     modelData["position"]={
                       x:node.children[0].children[0].position.x,
-                      y:node.children[0].children[0].position.y,
-                      z:node.children[0].children[0].position.z
+                      y:node.children[0].children[0].position.z,
+                      z:node.children[0].children[0].position.y
                     }
                     modelData["rotation"]={  
                       x:node.children[0].children[0].rotation.x,
